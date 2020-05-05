@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Feito  por <strong>Adriano Almeida</p>
+<p align="center">Feito  por <strong>Caio Fernando</p>
