@@ -1,5 +1,5 @@
-### :rocket: Primeiro projeto completo React.js GoStack 11.0
-Primeiro projeto da terceira semana bootcamp GoStack 11.0.
+### :rocket: projeto completo com React.js 
+
 Aplicação Github Explorer, que permite buscar, listar e explorar repositórios e
 issues.
 
@@ -21,13 +21,13 @@ prettier, eslint e editorconfig.
 
 ```js
 yarn
-yarn server
+yarn start
 ```
 
-### :muscle: Resultado final da aplicação
+### :muscle: Resultado da aplicação
 
 
-  <img  src="img/final.png" alt="aplicação final" />
+  <img  src="https://i.imgur.com/GuHgYk9.png" alt="aplicação final" />
 
 
 
